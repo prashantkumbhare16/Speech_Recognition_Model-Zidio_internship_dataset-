@@ -1,7 +1,3 @@
-Here is a README for the MFCC and TESS-based LSTM model project:  
-
----
-
 # Speech Emotion Recognition Using MFCC and LSTM  
 This project focuses on identifying human emotions from speech using the **Toronto Emotional Speech Set (TESS)** dataset. By extracting **Mel Frequency Cepstral Coefficients (MFCC)** as features and utilizing a **Long Short-Term Memory (LSTM)** neural network, this model aims to classify seven distinct emotions effectively.  
 
@@ -57,6 +53,4 @@ Contributions are welcome! Please fork the repository and create a feature branc
 This project is licensed under the MIT License - see the LICENSE file for details.  
 
 ## Acknowledgments  
-Special thanks to the creators of the **TESS dataset** and contributors to the **librosa** library for enabling audio feature extraction.  
-
---- 
+Special thanks to the creators of the **TESS dataset** and contributors to the **librosa** library for enabling audio feature extraction.
