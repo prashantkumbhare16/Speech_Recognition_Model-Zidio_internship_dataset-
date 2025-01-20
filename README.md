@@ -49,6 +49,8 @@ The trained LSTM model achieves high accuracy in classifying emotions such as ha
 ## Contributing  
 Contributions are welcome! Please fork the repository and create a feature branch. Submit a pull request for review.  
 
+### Project Made By Prashant Kumbhare ™️
+
 ## License  
 This project is licensed under the MIT License - see the LICENSE file for details.  
 
