@@ -49,10 +49,10 @@ The trained LSTM model achieves high accuracy in classifying emotions such as ha
 ## Contributing  
 Contributions are welcome! Please fork the repository and create a feature branch. Submit a pull request for review.  
 
-### Project Made By Prashant Kumbhare ™️
-
 ## License  
 This project is licensed under the MIT License - see the LICENSE file for details.  
 
 ## Acknowledgments  
 Special thanks to the creators of the **TESS dataset** and contributors to the **librosa** library for enabling audio feature extraction.
+
+### Project Made By Prashant Kumbhare ™️
